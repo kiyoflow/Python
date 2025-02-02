@@ -1,2 +1,1 @@
-# Python
-Small Python Projects
+All of my small python projects
